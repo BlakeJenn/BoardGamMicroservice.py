@@ -18,9 +18,9 @@ Instructions for REQUEST:
 
 3. Send request via socket.send_string(combined)
 
-  "Combined" is a string of the id and image type combined
+     "Combined" is a string of the id and image type combined
   
-   ( Ex: print(request_game(187645, 'full_image')) )
+      ( Ex: print(request_game(187645, 'full_image')) )
 
 Instructions for RECIEVE:
 
